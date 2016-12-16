@@ -1,0 +1,30 @@
+
+git status
+git clone https://github.com/oKharytonchyk/ExamBash
+git status 
+
+git status
+git add .
+git status
+git commit -m "Human"
+git status
+git push 
+
+
+git branch new_feature
+git checkout new_feature
+git status
+git add .
+git status
+git commit -m "Car"
+git status
+git push -u origin new_feature
+
+
+git checkout master
+git status
+git add .
+git status
+git commit -m "f_valid_ago commit"
+git status
+git push
